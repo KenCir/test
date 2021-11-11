@@ -17,7 +17,7 @@ jobs:
     steps:
       - name: Dump context
         uses: crazy-max/ghaction-dump-context@v1
-  issue_labels:
+  pull_request_labels:
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
