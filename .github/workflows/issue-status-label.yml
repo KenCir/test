@@ -13,7 +13,7 @@ env:
 
 jobs:
   dump_context:
-    runs-on: ubuntu-lasted
+    runs-on: ubuntu-latest
     steps:
       - name: Dump context
         uses: crazy-max/ghaction-dump-context@v1
