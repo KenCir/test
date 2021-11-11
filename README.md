@@ -1,2 +1,3 @@
-# actions-test
-GitHub Actions色々試す用
+# test
+
+色々試す用
